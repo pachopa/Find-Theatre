@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Header extends React.Component {
+class Nav extends React.Component {
 
 
 
@@ -41,7 +41,7 @@ class Header extends React.Component {
         </div>
         <div className="container-fluid">
           <div className="row">
-            <div className="col-xs-6">Hello</div>
+            <div className="col-xs-6">Find a theatre near by your place</div>
             <div className="col-xs-6">My name is Chris</div>
           </div>
         </div>
@@ -50,4 +50,4 @@ class Header extends React.Component {
   }
 }
 
-export default Header;
+export default Nav;
